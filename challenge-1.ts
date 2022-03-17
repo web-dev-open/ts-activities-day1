@@ -75,7 +75,6 @@ const info: {
             code: '141',
             country: 'Spain',
         },
-        phone: '+54 4523423',
     }
 ]
 
